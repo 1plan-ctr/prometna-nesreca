@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Add Home Title Here</title>
+	<atom:link href="https://1plan-ctr.github.io/prometna-nesreca/feed" rel="self" type="application/rss+xml" />
+	<link>https://1plan-ctr.github.io/prometna-nesreca</link>
+	<description>Add Meta Description Here</description>
+	<lastBuildDate>Monday, 14 February 2022 12:07:01 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>	
+	
+	
+	
+<!--feeditem-->
+<item>
+		<title>Izpolnjevanje obrazcev zavarovalnih zahtevkov - najboljše prakse za uveljavljanje odškodnine za nesreče</title>
+		<link>https://1plan-ctr.github.io/prometna-nesreca/Uveljavljanje-odškodnine-za-nesreče/Izpolnjevanje-obrazcev-zavarovalnih-zahtevkov-najboljše-prakse-za-uveljavljanje-odškodnine-za-nesreče.html</link>
+		<pubDate>Monday, 14 February 2022 12:07:01 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<category><![CDATA[Uveljavljanje odškodnine za nesreče]]></category>
+		<guid isPermaLink="false">https://1plan-ctr.github.io/prometna-nesreca/Uveljavljanje-odškodnine-za-nesreče/Izpolnjevanje-obrazcev-zavarovalnih-zahtevkov-najboljše-prakse-za-uveljavljanje-odškodnine-za-nesreče.html</guid> 
+		<description><![CDATA[Izpolnjevanje obrazcev zavarovalnih zahtevkov - najboljše prakse za uveljavljanje odškodnine za nesreče
+by
+Suzana
+Posted on 14-02-2022 12:07 PM
+Izpolnjevanje obrazcev zavarovalnih zahtevkov - najbolj&amp;scaron;e prakse za uveljavljanje od&amp;scaron;kodnine za nesrečeZaradi prometne nesreče lahko nastanejo &amp;scaron;tevilni stro&amp;scaron;ki, vključno z bivanjem v bolni&amp;scaron;nici, zdravili proti bolečinam, fizioterapijo in drugo potrebno oskrboVi&amp;scaron;ina od&amp;scaron;kodnine, ki jo prejmete, bo odvisna od va&amp;scaron;ih po&amp;scaron;kodb, vključno s tem, koliko časa boste preživeli v bolni&amp;scaron;nici in koliko boste porabili za prihodnje stro&amp;scaron;ke zdravljenja
+]]></description>
+       <enclosure url="#" length="0" type="image" /></item>
+	
+	
+</channel>
+</rss>
+
+		
